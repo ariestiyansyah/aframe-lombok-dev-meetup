@@ -1,6 +1,6 @@
 # aframe-presentation for webvr-talk
 
-View slides at [gurumukhi.github.io/webvr-talk](https://gurumukhi.github.io/webvr-talk)
+View slides at [http://oonlab.com/aframe-lombok-dev-meetup](http://oonlab.com/aframe-lombok-dev-meetup)
 
 ## Table of Contents
 
