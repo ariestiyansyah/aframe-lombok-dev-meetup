@@ -19,7 +19,7 @@
 # About Me !  <!-- .element: style="" -->
 Rizky Ariestiyansyah
 <div><img data-src="media/img/rizky.jpg" style="width:250px"></div>
-- Independent
+- Mozilla Tech Speaker
 - Pengabdi Negara
 
 ------
